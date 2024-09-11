@@ -1,1 +1,1 @@
-I created solution.h file.
+I created solution.h file. Files main.cpp and classes.h are given and they have not to be changed.
