@@ -39,3 +39,5 @@ The output of the program is:
 •	"Dogs without a walker: {Dog Name}:{Dog Power}, {Dog Name}:{Dog Power}, …": a comma-separated list of all dogs without a match. 
 
 •	"Employees without work: {F L}:{Strength}, …": a comma-separated list of all employees without work (e.g. dog to walk).
+
+
